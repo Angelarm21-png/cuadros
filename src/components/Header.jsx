@@ -4,6 +4,7 @@ const navItems = [
   { title: "Inicio", label: "Inicio", url: "#" },
   { title: "Sobre mí", label: "about", url: "#about" },
   { title: "Galería", label: "galeria", url: "#galeria" },
+  { title: "Contacto", label: "contacto", url: "#contacto" },
 ];
 
 export default function Header() {

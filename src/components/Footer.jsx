@@ -2,7 +2,10 @@ import { Mail, Instagram } from "lucide-react";
 
 export default function Footer() {
   return (
-    <footer className="bg-gray-100 text-gray-700 py-10 px-6 border-t border-gray-200">
+    <footer
+      id="contacto"
+      className="bg-gray-100 text-gray-700 py-10 px-6 border-t border-gray-200"
+    >
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center gap-6">
         {/* Información principal */}
         <div className="text-center md:text-left">
