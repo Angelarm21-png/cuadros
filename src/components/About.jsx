@@ -7,7 +7,7 @@ export default function About() {
       <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
         <div className="flex justify-center">
           <img
-            src="/descarga.jpeg"
+            src="/angela.jpg"
             alt="Artista"
             className="w-full max-w-sm rounded-2xl shadow-lg object-cover"
           />

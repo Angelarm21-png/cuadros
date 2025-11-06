@@ -22,21 +22,21 @@ export default function Footer() {
           <div className="flex items-center space-x-2 hover:text-gray-900 transition">
             <Mail size={18} />
             <a
-              href="mailto:tuemail@ejemplo.com"
+              href="mailto:angelarm21@outlook.es"
               className="hover:underline text-gray-700"
             >
-              tuemail@ejemplo.com
+              angelarm21@outlook.es
             </a>
           </div>
           <div className="flex items-center space-x-2 hover:text-gray-900 transition">
             <Instagram size={18} />
             <a
-              href="https://www.instagram.com/tuusuario"
+              href="https://www.instagram.com/anngelarios"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:underline text-gray-700"
             >
-              @tuusuario
+              @anngelarios
             </a>
           </div>
         </div>
