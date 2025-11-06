@@ -15,7 +15,7 @@ export default function Hero() {
       {/* Imagen de fondo */}
       <div className="absolute inset-0">
         <img
-          src="/cuadro-oleo-sevilla.jpg"
+          src="/Imagen de WhatsApp 2025-11-06 a las 23.01.37_06d6ec92.jpg"
           alt="Cuadro de Sevilla"
           className="w-full h-full object-cover opacity-70"
         />
