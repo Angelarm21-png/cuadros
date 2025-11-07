@@ -28,8 +28,7 @@ export default function Hero() {
           Ángela Ríos
         </h1>
         <p className="text-lg md:text-xl mb-8 text-gray-200">
-          Descubre una colección única de cuadros que capturan emociones,
-          colores y momentos irrepetibles.
+          
         </p>
         <button
           onClick={handleScroll}
