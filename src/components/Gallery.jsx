@@ -61,7 +61,7 @@ export default function Gallery() {
     },
     {
       id: 8,
-      src: "/loco.jpg",
+      src: "/IMG_6215.jpg",
       title: "Sin título",
       price: "300 €",
       description:'2025, óleo sobre lienzo 35x92cm'
