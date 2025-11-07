@@ -6,106 +6,106 @@ export default function Gallery() {
     {
       id: 1,
       src: "/cerdo.jpg",
-      title: "Atardecer en calma",
-      price: "250 €",
-      description:
-        "Una obra que captura la serenidad del ocaso, donde los tonos cálidos se funden con la quietud del paisaje.",
+      title: "O porco de pé",
+      price: "150 €",
+      description:''
+    
     },
     {
       id: 2,
       src: "/conejo.jpg",
-      title: "Sombras del tiempo",
-      price: "300 €",
-      description:
-        "Explora el paso del tiempo a través de contrastes sutiles y texturas profundas.",
+      title: "Un venerable conejo",
+      price: "400 €",
+      description:''
+        
     },
     {
       id: 3,
       src: "/escultura.jpg",
-      title: "Reflejos de la memoria",
-      price: "280 €",
-      description:
-        "Una mirada introspectiva a los recuerdos y su reflejo en la naturaleza del ser.",
+      title: "Quixen fuxir da terra",
+      price: "500 €",
+      description:''
+        
     },
     {
       id: 4,
       src: "/esculturaconejo.jpg",
-      title: "El eco del color",
-      price: "320 €",
-      description:
-        "Colores vibrantes que resuenan con energía, capturando el movimiento del alma.",
+      title: "Soporte manual",
+      price: "500 €",
+      description:''
+        
     },
     {
       id: 5,
       src: "/flor.jpg",
-      title: "Luz interior",
-      price: "260 €",
-      description:
-        "Una representación del brillo que habita en lo más profundo de cada uno de nosotros.",
+      title: "I want to be so kind",
+      price: "500 €",
+      description:''
+        
     },
     {
       id: 6,
       src: "/gorda.jpg",
-      title: "Horizonte perdido",
-      price: "290 €",
-      description:
-        "Una invitación a explorar lo desconocido, donde el horizonte se convierte en una metáfora de la esperanza.",
+      title: "Manolita",
+      price: "450 €",
+      description:''
+        
     },
     {
       id: 7,
       src: "/loca.jpg",
-      title: "Horizonte perdido",
-      price: "290 €",
-      description:
-        "Una invitación a explorar lo desconocido, donde el horizonte se convierte en una metáfora de la esperanza.",
+      title: "Ponte color",
+      price: "350 €",
+      description:''
+        
     },
     {
       id: 8,
       src: "/loco.jpg",
-      title: "Horizonte perdido",
-      price: "290 €",
-      description:
-        "Una invitación a explorar lo desconocido, donde el horizonte se convierte en una metáfora de la esperanza.",
+      title: "Sin título",
+      price: "300 €",
+      description:''
+        
     },
     {
       id: 9,
       src: "/malito.jpg",
-      title: "Horizonte perdido",
-      price: "290 €",
+      title: "Aire de muertos",
+      price: "400 €",
       description:
-        "Una invitación a explorar lo desconocido, donde el horizonte se convierte en una metáfora de la esperanza.",
+        "",
     },
     {
       id: 10,
       src: "/miedo.jpg",
-      title: "Horizonte perdido",
-      price: "290 €",
+      title: "Sin título",
+      price: "300 €",
       description:
-        "Una invitación a explorar lo desconocido, donde el horizonte se convierte en una metáfora de la esperanza.",
+        "",
     },
     {
       id: 11,
       src: "/pie.jpg",
-      title: "Horizonte perdido",
-      price: "290 €",
+      title: "Los zapatitos rojos",
+      price: "500 €",
       description:
-        "Una invitación a explorar lo desconocido, donde el horizonte se convierte en una metáfora de la esperanza.",
+        "",
     },
     {
       id: 12,
       src: "/tetas.jpg",
-      title: "Horizonte perdido",
-      price: "290 €",
+      title: "Autorretrato2: alargaré mis brazos para abrazarte",
+      price: "200 €",
       description:
-        "Una invitación a explorar lo desconocido, donde el horizonte se convierte en una metáfora de la esperanza.",
+        "",
     },
     {
       id: 13,
       src: "/vieja.jpg",
-      title: "Horizonte perdido",
-      price: "290 €",
+      title: "Te doy una canción con mis dos manos",
+      price: "550 €",
       description:
-        "Una invitación a explorar lo desconocido, donde el horizonte se convierte en una metáfora de la esperanza.",
+        "",
     },
     
   
