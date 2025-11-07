@@ -110,7 +110,7 @@ export default function Gallery() {
 
        {
       id: 14,
-      src: "/6392.jpg",
+      src: "/IMG_6392.jpg",
       title: "Cárcel por dentro",
       price: "250 €",
       description:
