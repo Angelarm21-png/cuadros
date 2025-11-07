@@ -1,4 +1,4 @@
-import { Mail, Instagram } from "lucide-react";
+import { Mail, Instagram, ShoppingBag } from "lucide-react";
 
 export default function Footer() {
   return (
@@ -17,8 +17,10 @@ export default function Footer() {
           </p>
         </div>
 
+        {/* Contacto */}
         <div className="flex flex-col items-center md:items-end space-y-3">
           <h4 className="text-lg font-medium text-gray-800">Contacto</h4>
+
           <div className="flex items-center space-x-2 hover:text-gray-900 transition">
             <Mail size={18} />
             <a
@@ -28,6 +30,7 @@ export default function Footer() {
               angelarm21@outlook.es
             </a>
           </div>
+
           <div className="flex items-center space-x-2 hover:text-gray-900 transition">
             <Instagram size={18} />
             <a
@@ -37,6 +40,19 @@ export default function Footer() {
               className="hover:underline text-gray-700"
             >
               @anngelarios
+            </a>
+          </div>
+
+          {/* Enlace a Wallapop */}
+          <div className="flex items-center space-x-2 hover:text-gray-900 transition">
+            <ShoppingBag size={18} />
+            <a
+              href="https://www.wallapop.com/app/user/tu-nombre-de-usuario" // 👉 reemplaza con tu URL real
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:underline text-gray-700"
+            >
+              Mi perfil en Wallapop
             </a>
           </div>
         </div>
