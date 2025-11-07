@@ -8,7 +8,7 @@ export default function Gallery() {
       src: "/cerdo.jpg",
       title: "O porco de pé",
       price: "150 €",
-      description:''
+      description:'2025, óleo sobre lienzo 38x46cm'
     
     },
     {
@@ -16,7 +16,7 @@ export default function Gallery() {
       src: "/conejo.jpg",
       title: "Un venerable conejo",
       price: "400 €",
-      description:''
+      description:'2025, óleo sobre lienzo 90x90cm'
         
     },
     {
@@ -24,7 +24,7 @@ export default function Gallery() {
       src: "/escultura.jpg",
       title: "Quixen fuxir da terra",
       price: "500 €",
-      description:''
+      description:'2025, fundición de bronce, 10x3x3cm (aprox.)'
         
     },
     {
@@ -32,7 +32,7 @@ export default function Gallery() {
       src: "/esculturaconejo.jpg",
       title: "Soporte manual",
       price: "500 €",
-      description:''
+      description:'2025, fundición de bronce, 10x3x3 cm (aprox.)'
         
     },
     {
@@ -40,7 +40,7 @@ export default function Gallery() {
       src: "/flor.jpg",
       title: "I want to be so kind",
       price: "500 €",
-      description:''
+      description:'2025, óleo sobre lienzo 130x90 cm'
         
     },
     {
@@ -48,7 +48,7 @@ export default function Gallery() {
       src: "/gorda.jpg",
       title: "Manolita",
       price: "450 €",
-      description:''
+      description:'2025, óleo sobre lienzo 130x97cm'
         
     },
     {
@@ -56,7 +56,7 @@ export default function Gallery() {
       src: "/loca.jpg",
       title: "Ponte color",
       price: "350 €",
-      description:''
+      description:'óleo y acrílico sobre lienzo 90x90cm (aprox)'
         
     },
     {
@@ -64,7 +64,7 @@ export default function Gallery() {
       src: "/loco.jpg",
       title: "Sin título",
       price: "300 €",
-      description:''
+      description:'2025, óleo sobre lienzo 35x92cm'
         
     },
     {
@@ -73,7 +73,7 @@ export default function Gallery() {
       title: "Aire de muertos",
       price: "400 €",
       description:
-        "",
+        "2025, óleo sobre lienzo 61x50cm",
     },
     {
       id: 10,
@@ -81,7 +81,7 @@ export default function Gallery() {
       title: "Sin título",
       price: "300 €",
       description:
-        "",
+        "2025, óleo y spray sobre lienzo ",
     },
     {
       id: 11,
@@ -89,7 +89,7 @@ export default function Gallery() {
       title: "Los zapatitos rojos",
       price: "500 €",
       description:
-        "",
+        "2025, óleo sobre lienzo 151x82cm",
     },
     {
       id: 12,
@@ -97,7 +97,7 @@ export default function Gallery() {
       title: "Autorretrato2: alargaré mis brazos para abrazarte",
       price: "200 €",
       description:
-        "",
+        "2025, óleo sobre lienzo 41x33cm",
     },
     {
       id: 13,
@@ -105,10 +105,26 @@ export default function Gallery() {
       title: "Te doy una canción con mis dos manos",
       price: "550 €",
       description:
-        "",
+        "2025, óleo sobre lienzo 130x90cm",
     },
-    
-  
+
+       {
+      id: 14,
+      src: "/6392.jpg",
+      title: "Cárcel por dentro",
+      price: "250 €",
+      description:
+        "2024, óleo sobre lienzo 120x80cm",
+    },
+       {
+      id: 15,
+      src: "/FullSizeRender.JPG",
+      title: "Amapola",
+      price: "250 €",
+      description:
+        "2024, óleo sobre lienzo 60x40cm",
+    },
+
   ]; 
 
   const [selected, setSelected] = useState(null);

@@ -47,7 +47,7 @@ export default function Footer() {
           <div className="flex items-center space-x-2 hover:text-gray-900 transition">
             <ShoppingBag size={18} />
             <a
-              href="https://www.wallapop.com/app/user/tu-nombre-de-usuario" // 👉 reemplaza con tu URL real
+              href="https://www.wallapop.com/user/angelar-401991783?_pid=wi&_uid=401991783" // 👉 reemplaza con tu URL real
               target="_blank"
               rel="noopener noreferrer"
               className="hover:underline text-gray-700"
