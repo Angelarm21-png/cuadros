@@ -121,8 +121,8 @@ export default function Gallery() {
       <div className="max-w-6xl mx-auto text-center mb-12">
         <h2 className="text-4xl font-serif mb-4">Galería</h2>
         <p className="text-lg text-gray-600">
-          Una selección de obras que reflejan mi visión del arte y la belleza en
-          cada trazo.
+          
+          
         </p>
       </div>
 

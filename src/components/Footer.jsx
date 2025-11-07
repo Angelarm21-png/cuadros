@@ -52,7 +52,7 @@ export default function Footer() {
               rel="noopener noreferrer"
               className="hover:underline text-gray-700"
             >
-              Mi perfil en Wallapop
+              Wallapop
             </a>
           </div>
         </div>
