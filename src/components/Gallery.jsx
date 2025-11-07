@@ -107,14 +107,8 @@ export default function Gallery() {
       description:
         "Una invitación a explorar lo desconocido, donde el horizonte se convierte en una metáfora de la esperanza.",
     },
-     {
-      id: 14,
-      src: "/descarga.jpeg",
-      title: "Horizonte perdido",
-      price: "290 €",
-      description:
-        "Una invitación a explorar lo desconocido, donde el horizonte se convierte en una metáfora de la esperanza.",
-    },
+    
+  
   ]; 
 
   const [selected, setSelected] = useState(null);
