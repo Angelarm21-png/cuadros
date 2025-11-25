@@ -15,7 +15,7 @@ export default function Gallery() {
       id: 2,
       src: "/conejo.jpg",
       title: "Un venerable conejo",
-      price: "400 €",
+      price: "Adquisición a través de galería. John Holland Gallery",
       description:'2025, óleo sobre lienzo 90x90cm'
         
     },
@@ -23,7 +23,7 @@ export default function Gallery() {
       id: 3,
       src: "/escultura.jpg",
       title: "Quixen fuxir da terra",
-      price: "500 €",
+      price: "Adquisición a través de galería. John Holland Gallery",
       description:'2025, fundición de bronce, 10x3x3cm (aprox.)'
         
     },
@@ -31,7 +31,7 @@ export default function Gallery() {
       id: 4,
       src: "/esculturaconejo.jpg",
       title: "Soporte manual",
-      price: "500 €",
+      price: "Adquisición a través de galería. John Holland Gallery",
       description:'2025, fundición de bronce, 10x3x3 cm (aprox.)'
         
     },
@@ -40,7 +40,7 @@ export default function Gallery() {
       src: "/flor.jpg",
       title: "I want to be so kind",
       price: "500 €",
-      description:'2025, óleo sobre lienzo 130x90 cm'
+      description:'2025, óleo sobre lienzo 130x90cm'
         
     },
     {
@@ -81,7 +81,7 @@ export default function Gallery() {
       title: "Sin título",
       price: "300 €",
       description:
-        "2025, óleo y spray sobre lienzo ",
+        "2025, óleo sobre lienzo 60x50cm ",
     },
     {
       id: 11,
@@ -95,7 +95,7 @@ export default function Gallery() {
       id: 12,
       src: "/tetas.jpg",
       title: "Autorretrato2: alargaré mis brazos para abrazarte",
-      price: "200 €",
+      price: "NO DISPONIBLE",
       description:
         "2025, óleo sobre lienzo 41x33cm",
     },
@@ -103,7 +103,7 @@ export default function Gallery() {
       id: 13,
       src: "/vieja.jpg",
       title: "Te doy una canción con mis dos manos",
-      price: "550 €",
+      price: "Adquisicón a través de galería. John Holland Gallery",
       description:
         "2025, óleo sobre lienzo 130x90cm",
     },
@@ -122,11 +122,11 @@ export default function Gallery() {
       title: "Amapola",
       price: "250 €",
       description:
-        "2024, óleo sobre lienzo 60x40cm",
+        "2024, óleo sobre lienzo 39x49cm",
     },
 
-  ]; 
-
+  ];  
+    
   const [selected, setSelected] = useState(null);
 
   return (
